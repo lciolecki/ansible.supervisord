@@ -1,7 +1,7 @@
 Ansible role for supervisor
 ===========================
 
-###This role is forked from: [https://github.com/zenoamaro/ansible-supervisord](https://github.com/zenoamaro/ansible-supervisord)
+### This role is forked from: [https://github.com/zenoamaro/ansible-supervisord](https://github.com/zenoamaro/ansible-supervisord)
 
 A role for deploying and configuring [Supervisor](http://supervisord.org) and extensions on unix hosts using [Ansible](http://www.ansibleworks.com).
 
